@@ -9,7 +9,7 @@ Você pode baixar o conteúdo deste repositório de duas maneiras:
 
 ### 1. Baixar como ZIP (mais fácil para iniciantes)
 1. Acesse o link do repositório:
-[https://github.com/AlineIFBA/SubsequentePSW(https://github.com/AlineIFBA/SubsequentePSW)
+https://github.com/AlineIFBA/SubsequentePSW
 2. Clique no botão verde **"Code"**.
 3. Escolha a opção **"Download ZIP"**.
 4. Extraia o arquivo `.zip` em uma pasta do seu computador.
